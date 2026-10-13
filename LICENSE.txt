@@ -1,0 +1,18 @@
+The Last Alibi — آخر حجة غياب
+All rights reserved.
+
+Stories, characters and events: from the «تحقيقات نوح الألفي» novels by the author Myrna El-Mahdy.
+All intellectual property rights in the novels, their characters and events belong to her.
+
+Game implementation (design, code, art and sound): © 2026 Engy Ahmed. All rights reserved.
+
+This repository contains only the published build of the game so it can be played online.
+No license is granted. You may not copy, modify, redistribute, re-host, sell, or present this
+game (in whole or in part) as your own work without written permission.
+
+جميع الحقوق محفوظة.
+القصص والشخصيات والأحداث: من روايات «تحقيقات نوح الألفي» للكاتبة ميرنا المهدي، وكل حقوق الملكية
+الفكرية للروايات وشخصياتها وأحداثها محفوظة للكاتبة.
+تنفيذ اللعبة (التصميم والبرمجة والرسومات والأصوات): © 2026 إنجي أحمد — جميع الحقوق محفوظة.
+المستودع ده فيه بس النسخة المنشورة من اللعبة عشان تتلعب أونلاين. ممنوع نسخ اللعبة أو تعديلها
+أو إعادة نشرها أو بيعها أو نسبها لأي حد تاني — كلها أو جزء منها — من غير إذن مكتوب.
